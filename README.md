@@ -1,1 +1,1 @@
-# divergent-full-stack-offline-coding-test
+# divergent-coding-test
