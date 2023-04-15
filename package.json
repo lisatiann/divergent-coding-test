@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.jsx",
   "scripts": {
-    "start": "",
     "server": "nodemon ./server/server.js",
     "dev": "export NODE_ENV=development; webpack-dev-server",
     "build": "export NODE_ENV=production; webpack",
