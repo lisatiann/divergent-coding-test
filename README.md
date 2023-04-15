@@ -1,1 +1,0 @@
-# divergent-coding-test
