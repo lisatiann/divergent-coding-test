@@ -19,6 +19,7 @@ const shelfTrackerSlice = createSlice({
   reducers: {
     // Changes the current zone and creates a new zone if it doesn't exist.
     changeZone(state, action) {
+      console.log(action)
       state.currentZone = action.payload;
 
       if (!state.zones[action.payload]) {

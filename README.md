@@ -29,3 +29,7 @@ npm run server
 ```
 The server should be running in http://localhost:3000
 
+## Database
+
+Please create a free cluster on MongoDB and replace the current URI in the "model.js" file with your own.
+

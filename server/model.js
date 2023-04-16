@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 
 const { Schema } = mongoose;
 // mongo connection uri
-const URI = 'mongodb+srv://lisa:oAegf6PaJl5L6JKG@cluster0.d8vtcgu.mongodb.net/test';
+const URI = '';
 
 // useNewURLParser: use MongoDB driver's new URL parser
 // useUnifiedTopology: use new engine for monitoring state of servers
