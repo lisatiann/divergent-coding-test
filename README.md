@@ -7,7 +7,7 @@
 git clone https://github.com/lisatiann/divergent-coding-test.git
 ```
 
-2. Install the node packages for both the serve and client.
+2. Install the node packages for both the serve and client
 ```
 npm install
 ```
@@ -15,7 +15,7 @@ npm install
 ```
 npm run build
 ```
-This should create a build folder that will be located in the root directory.
+This should create a build folder that will be located in the root directory
 
 4. Run the frontend server
 ```
@@ -31,5 +31,6 @@ The server should be running in http://localhost:3000
 
 ## Database
 
-Please create a free cluster on MongoDB and replace the current URI in the "model.js" file with your own.
+Please create a free cluster on [MongoDB's website](https://www.mongodb.com/) and replace the current URI in the "model.js" file with your own.
+
 
